@@ -9,4 +9,6 @@ The goal of the calibration script is to easily assess the quality of the yearly
 
 The necessary calibration files can be found in the "calibration_files" folder (both wavelength and absolute calibration). These must but updated after every new absolute intensity calibration. The scripts need an update accordingly to include the new file names, paths and years.
 
-This binder was set up for the fieldwork of AGF-301/801 by Charlotte M van Hazendonk
+The binder was set up for the fieldwork of AGF-301/801 by Charlotte M van Hazendonk.
+Currently linked to this fork at https://mybinder.org/v2/gh/UNISvalbard/KHO_SilverBullet_Calibration/cac51ee0be865ae2614396b958823c21ba04f23b?urlpath=lab%2Ftree%2Fshort_version_calibration_silver_bullet.ipynb
+
